@@ -1,0 +1,30 @@
+{
+    "default": {
+        "guestName": ""
+    },
+
+    "me":{
+        "guestName": "Mẹ Ngọc Mơ",
+        "role": "Mẹ"
+    },
+
+    "ba":{
+        "guestName": "Ba Hữu Thông",
+        "role": "Ba"
+    },
+
+    "chi-ba": {
+        "guestName": "Chị ba Minh Tú",
+        "role": "Chị Ba"
+    },
+
+    "chi-hai":{
+        "guestName": "Chị hai Thuỳ Linh",
+        "role": "Chị Hai"
+    },
+
+    "anh-hai":{
+        "guestName": "Anh hai Anh Tuấn",
+        "role": "Anh Hai"
+    }
+}
